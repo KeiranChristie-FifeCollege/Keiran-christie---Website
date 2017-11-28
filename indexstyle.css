@@ -1,0 +1,27 @@
+html {
+    
+}
+
+nav {
+    
+}
+
+body {
+    background-color: grey;
+    color: orange;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+p {
+    font-size: 15px;
+}
+
+.Main-Header {
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.Sub-Header {
+    font-size: 25px;
+}
