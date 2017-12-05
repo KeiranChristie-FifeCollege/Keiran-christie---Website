@@ -1,0 +1,14 @@
+* {
+    
+}
+
+body {
+    background-color: grey;
+    color: orange;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+.Question1 {
+    font-size: 20px;
+}
