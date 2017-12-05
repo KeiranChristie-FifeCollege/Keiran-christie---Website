@@ -9,6 +9,10 @@ body {
     font-weight: bold;
 }
 
+a {
+    font-size: 20px;
+}
+
 .Question1 {
     font-size: 20px;
 }
