@@ -7,7 +7,7 @@ nav {
 }
 
 body {
-    background-color: grey;
+    background-color: darkslategray;
     color: orange;
     font-family: monospace;
     font-weight: bold;
@@ -28,9 +28,34 @@ p {
 
 .Monitor {
     float: left;
+    padding-right: 20px;
 }
 
 .Para1 {
-    padding-top: 40px;
-    padding-left: 20px;
+    padding-top: 80px;
+    padding-left: 330px;
+}
+
+.Top-Left {
+    float: left;
+    padding-right: 25px;
+    font- 
+}
+
+.Top-Right {
+    float: right;
+    background-color: lightgreen;
+}
+
+.News-Table {
+    float: right;
+    width: 72%;
+    color: darkorange;
+    background-color: grey;
+    border-style: dotted;
+    border-color: darkgray;
+}
+
+td {
+    padding-left: 10px;
 }

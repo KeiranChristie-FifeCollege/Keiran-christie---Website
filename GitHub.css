@@ -3,8 +3,17 @@
 }
 
 body {
-    background-color: grey;
+    background-color: dimgray;
     color: orange;
     font-family: monospace;
     font-weight: bold;
+}
+
+.Top-Left {
+    float: left;
+    padding-right: 25px;
+}
+
+.Top-Right {
+    padding-top: 25px;
 }
