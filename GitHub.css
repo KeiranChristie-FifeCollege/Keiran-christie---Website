@@ -7,13 +7,24 @@ body {
     color: orange;
     font-family: monospace;
     font-weight: bold;
+    width: auto;
 }
 
 .Top-Left {
     float: left;
-    padding-right: 25px;
+    padding-right: 2%;
 }
 
 .Top-Right {
-    padding-top: 25px;
+    padding-top: 2.1%;
+}
+
+.Good-News {
+    padding-top: 1%;
+}
+
+.Good-News-Gif {
+    float: left;
+    padding-right: 1%;
+    padding-bottom: 1%;
 }
