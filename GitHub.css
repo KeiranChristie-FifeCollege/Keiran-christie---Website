@@ -20,11 +20,32 @@ body {
 }
 
 .Good-News {
-    padding-top: 1%;
+    padding-top: 1%
 }
 
 .Good-News-Gif {
     float: left;
     padding-right: 1%;
     padding-bottom: 1%;
+}
+
+.Git-Features-Table {
+    float: left;
+    margin-left: 9%;
+    font-size: 150%;
+}
+
+.Git-Features-Table tr th {
+    padding: 5%;
+    border-style: dashed;
+}
+
+.GitHub-Desktop-SS {
+    float: right;
+    margin-right: 20%;
+}
+
+.GitHub-Desktop-Href {
+    padding-top: 28%;
+    padding-left: 40%;
 }
