@@ -31,7 +31,6 @@ body {
 
 .Git-Features-Table {
     float: left;
-    margin-left: 9%;
     font-size: 150%;
 }
 
@@ -47,4 +46,12 @@ body {
 .GitHub-Desktop-Href {
     padding-top: 28%;
     padding-left: 40%;
+}
+
+.Table-Whole {
+    padding-top: 20%;
+}
+
+.Good-News-Gif a {
+    padding-bottom: 20%;
 }
